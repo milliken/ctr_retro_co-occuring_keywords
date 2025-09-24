@@ -670,7 +670,7 @@ sigma.classes.EventDispatcher = function () {
         };
         this.p = {
             labelColor: "default",
-            defaultLabelColor: "#fff",
+            defaultLabelColor: "#000",
             labelHoverBGColor: "default",
             defaultHoverLabelBGColor: "#fff",
             labelHoverShadow: !0,
@@ -686,7 +686,7 @@ sigma.classes.EventDispatcher = function () {
             labelSize: "fixed",
             defaultLabelSize: 12,
             labelSizeRatio: 2,
-            labelThreshold: 6,
+            labelThreshold: 0,
             font: "Arial",
             hoverFont: "",
             activeFont: "",
