@@ -670,7 +670,7 @@ sigma.classes.EventDispatcher = function () {
         };
         this.p = {
             labelColor: "default",
-            defaultLabelColor: "#fff",
+            defaultLabelColor: "#000000",
             labelHoverBGColor: "default",
             defaultHoverLabelBGColor: "#fff",
             labelHoverShadow: !0,
